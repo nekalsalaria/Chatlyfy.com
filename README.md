@@ -3,7 +3,7 @@ A real-time, WhatsApp-style chat application built with the MERN stack and Socke
 
 ## 🌐 Live Website
 
-👉 [https://chatlyfy.onrender.com](https://chatlyfy.onrender.com)
+https://chatlyfy-com.onrender.com
 
 ## 🚀 Features
 
